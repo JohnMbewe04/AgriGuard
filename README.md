@@ -40,7 +40,7 @@ Built for **[Halothon 2025](https://halothon-2025.devpost.com/)** — the global
 |------------|------------------|
 | ![Dashboard Screenshot](Dashboard.png) | ![Report Screenshot](Report.png) |
 
-> *Interactive dashboard with agricultural theme (left) and PDF report output (right).*
+> *Interactive dashboard with agricultural theme (left) and report output (right).*
 
 ---
 
