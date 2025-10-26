@@ -38,7 +38,7 @@ https://github.com/user-attachments/assets/8f3a7c9d-1b2e-4f3a-9f1c-8e4a5b6d7c8e
 
 | Dashboard | Diagnosis Report |
 |------------|------------------|
-| ![Dashboard Screenshot](https://github.com/your-username/agriguard/assets/dashboard-preview.png) | ![Report Screenshot](https://github.com/your-username/agriguard/assets/report-preview.png) |
+| ![Dashboard Screenshot](Dashboard.png) | ![Report Screenshot](https://github.com/your-username/agriguard/assets/report-preview.png) |
 
 > *Interactive dashboard with agricultural theme (left) and PDF report output (right).*
 
