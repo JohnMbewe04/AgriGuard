@@ -64,11 +64,10 @@ Built for **[Halothon 2025](https://halothon-2025.devpost.com/)** — the global
    ```
 
 3. Place your trained model (`agriguard_model.h5`) in the project root.  
-   *(Or [download a sample model](#model-training) to test.)*
 
 4. Run the app:
    ```bash
-   python app.py
+   python AgriGuard.py
    ```
 
 5. Open your browser and navigate to:  
@@ -102,7 +101,7 @@ A training script (`train_model.py`) is included for retraining or fine-tuning.
 
 ```
 agriguard/
-├── app.py                 # Main Flask dashboard
+├── AgriGuard.py           # Main Flask dashboard
 ├── agriguard_model.h5     # Trained AI model
 ├── train_model.py         # Model training script (optional)
 ├── prepare_data.py        # Dataset organizer
@@ -138,8 +137,6 @@ agriguard/
 ## 📹 Demo Video
 
 [![Watch the demo](https://img.youtu.be/lFi4XH4V6gs/0.jpg)](https://youtu.be/lFi4XH4V6gs)
-
-*(Replace with your YouTube link before submission)*
 
 ---
 
