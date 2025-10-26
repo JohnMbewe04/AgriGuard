@@ -137,7 +137,7 @@ agriguard/
 
 ## 📹 Demo Video
 
-[![Watch the demo](https://img.youtube.com/vi/your-video-id/0.jpg)](https://youtu.be/your-video-id)
+[![Watch the demo](https://img.youtu.be/lFi4XH4V6gs/0.jpg)](https://youtu.be/lFi4XH4V6gs)
 
 *(Replace with your YouTube link before submission)*
 
