@@ -28,7 +28,7 @@ Built for **[Halothon 2025](https://halothon-2025.devpost.com/)** — the global
 
 ## 🖼️ Demo
 
-https://github.com/user-attachments/assets/8f3a7c9d-1b2e-4f3a-9f1c-8e4a5b6d7c8e  
+[https://github.com/user-attachments/assets/8f3a7c9d-1b2e-4f3a-9f1c-8e4a5b6d7c8e  ](https://github.com/JohnMbewe04/AgriGuard.git)
 
 > *Left: Original leaf | Right: AI-detected lesions with severity visualization*
 
